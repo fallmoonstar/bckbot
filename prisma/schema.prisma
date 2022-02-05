@@ -1,0 +1,35 @@
+// This is your Prisma schema file,
+// learn more about it in the docs		https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "sqlite"
+    url      = "file:vpn.db"
+}
+
+model Server {
+    hostname String
+    ip       String   @id
+	country  String
+    speed    Int
+    config   String
+    isp      String
+    result   Result[]
+}
+
+model Result {
+    server  Server   @relation(fields: [ip], references: [ip])
+    ip      String
+    connect Int
+    pcr     Int
+    uma     Int
+    wf      Int
+    kc      Int
+    knsb    Int
+    time    DateTime
+
+	@@unique([ip, time])
+}

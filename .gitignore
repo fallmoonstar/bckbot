@@ -45,3 +45,4 @@ old
 old/**/*
 *.tsbuildinfo
 db.json
+prisma/vpn.db

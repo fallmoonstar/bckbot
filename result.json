@@ -1,0 +1,873 @@
+{
+    "vpn973676200": {
+        "connect": 5830,
+        "sites": {
+            "PCR": 3159,
+            "UMA": 4326,
+            "WF": 2845,
+            "KC": 2391,
+            "PJSK": 2843,
+            "KNSB": 3154
+        }
+    },
+    "public-vpn-41": {
+        "connect": 7923,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2562,
+            "KC": 2114,
+            "PJSK": "access403",
+            "KNSB": 2855
+        }
+    },
+    "public-vpn-251": {
+        "connect": 8244,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2590,
+            "KC": 2014,
+            "PJSK": 3574,
+            "KNSB": 2881
+        }
+    },
+    "public-vpn-119": {
+        "connect": 7376,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2365,
+            "KC": 1810,
+            "PJSK": 3379,
+            "KNSB": 2659
+        }
+    },
+    "vpn539990508": {
+        "connect": 4811,
+        "sites": {
+            "PCR": 3361,
+            "UMA": 4993,
+            "WF": 2892,
+            "KC": 2162,
+            "PJSK": 2885,
+            "KNSB": 2884
+        }
+    },
+    "vpn980425057": {
+        "connect": 5450,
+        "sites": {
+            "PCR": 3223,
+            "UMA": 6036,
+            "WF": 2766,
+            "KC": 2046,
+            "PJSK": 2765,
+            "KNSB": 3212
+        }
+    },
+    "public-vpn-190": {
+        "connect": 8040,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2531,
+            "KC": 2073,
+            "PJSK": "access403",
+            "KNSB": 2836
+        }
+    },
+    "vpn436051061": {
+        "connect": 6131,
+        "sites": {
+            "PCR": 3110,
+            "UMA": 5023,
+            "WF": 3855,
+            "KC": 1883,
+            "PJSK": 2674,
+            "KNSB": 3103
+        }
+    },
+    "public-vpn-195": {
+        "connect": 7477,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2783,
+            "KC": 2052,
+            "PJSK": "access403",
+            "KNSB": 2779
+        }
+    },
+    "vpn848768152": {
+        "connect": 6257,
+        "sites": {
+            "PCR": 2495,
+            "UMA": 5432,
+            "WF": 2202,
+            "KC": 3976,
+            "PJSK": 2491,
+            "KNSB": 2490
+        }
+    },
+    "vpn346990601": {
+        "connect": 5920,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 3021,
+            "KNSB": "access403"
+        }
+    },
+    "public-vpn-130": {
+        "connect": 9134,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2326,
+            "KC": 2127,
+            "PJSK": "access403",
+            "KNSB": 2955
+        }
+    },
+    "vpn200030931": {
+        "connect": 5885,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2818,
+            "KNSB": "access403"
+        }
+    },
+    "vpn227514715": {
+        "connect": 4960,
+        "sites": {
+            "PCR": 2825,
+            "UMA": 4061,
+            "WF": 2420,
+            "KC": 2048,
+            "PJSK": 2821,
+            "KNSB": 3260
+        }
+    },
+    "public-vpn-168": {
+        "connect": 10556,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2254,
+            "KC": 1804,
+            "PJSK": "access403",
+            "KNSB": 2637
+        }
+    },
+    "public-vpn-252": {
+        "connect": 12334,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2978,
+            "KC": 2540,
+            "PJSK": 3270,
+            "KNSB": 3267
+        }
+    },
+    "vpn184380623": {
+        "connect": 4331,
+        "sites": {
+            "PCR": 2744,
+            "UMA": 4688,
+            "WF": 2436,
+            "KC": 2006,
+            "PJSK": 2436,
+            "KNSB": 3149
+        }
+    },
+    "vpn127842615": {
+        "connect": 5941,
+        "sites": {
+            "PCR": 2892,
+            "UMA": 4030,
+            "WF": 2486,
+            "KC": 2123,
+            "PJSK": 2542,
+            "KNSB": 2889
+        }
+    },
+    "vpn132468028": {
+        "connect": 4514,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2803,
+            "KNSB": "access403"
+        }
+    },
+    "public-vpn-173": {
+        "connect": 7983,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2387,
+            "KC": 1975,
+            "PJSK": "access403",
+            "KNSB": 2714
+        }
+    },
+    "vpn743223673": {
+        "connect": 5131,
+        "sites": {
+            "PCR": 2589,
+            "UMA": 5635,
+            "WF": 2260,
+            "KC": 1847,
+            "PJSK": 2286,
+            "KNSB": 2584
+        }
+    },
+    "vpn895069643": {
+        "connect": 6541,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2985,
+            "KNSB": "access403"
+        }
+    },
+    "public-vpn-215": {
+        "connect": 6422,
+        "sites": {
+            "PCR": {
+                "name": "FetchError",
+                "message": "request to https://api-priconne-redive.cygames.jp/ failed, reason: Socks5 proxy rejected connection - ConnectionRefused",
+                "type": "system"
+            },
+            "UMA": {
+                "name": "FetchError",
+                "message": "request to https://api-umamusume.cygames.jp/ failed, reason: Socks5 proxy rejected connection - ConnectionRefused",
+                "type": "system"
+            },
+            "WF": {
+                "name": "FetchError",
+                "message": "request to https://api.worldflipper.jp/ failed, reason: Socks5 proxy rejected connection - ConnectionRefused",
+                "type": "system"
+            },
+            "KC": {
+                "name": "FetchError",
+                "message": "request to http://203.104.209.7/kcscontents/news/ failed, reason: Socks5 proxy rejected connection - ConnectionRefused",
+                "type": "system"
+            },
+            "PJSK": {
+                "name": "FetchError",
+                "message": "request to https://game-version.sekai.colorfulpalette.org/1.8.1/3ed70b6a-8352-4532-b819-108837926ff5 failed, reason: Socks5 proxy rejected connection - ConnectionRefused",
+                "type": "system"
+            },
+            "KNSB": {
+                "name": "FetchError",
+                "message": "request to https://api.konosubafd.jp/ failed, reason: Socks5 proxy rejected connection - ConnectionRefused",
+                "type": "system"
+            }
+        }
+    },
+    "public-vpn-178": {
+        "connect": 7497,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2546,
+            "KC": 2120,
+            "PJSK": "access403",
+            "KNSB": 2838
+        }
+    },
+    "vpn562577227": {
+        "connect": 5665,
+        "sites": {
+            "PCR": 3032,
+            "UMA": 6016,
+            "WF": 2600,
+            "KC": 1865,
+            "PJSK": 2598,
+            "KNSB": 3029
+        }
+    },
+    "vpn396247784": {
+        "connect": 4570,
+        "sites": {
+            "PCR": 3009,
+            "UMA": 4755,
+            "WF": 2569,
+            "KC": 1851,
+            "PJSK": 2569,
+            "KNSB": 3005
+        }
+    },
+    "public-vpn-226": {
+        "connect": 8539,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2532,
+            "KC": 1757,
+            "PJSK": "access403",
+            "KNSB": 2526
+        }
+    },
+    "vpn587714635": {
+        "connect": 4470,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": 2366,
+            "KC": 4130,
+            "PJSK": 2685,
+            "KNSB": 3118
+        }
+    },
+    "vpn999340015": {
+        "connect": 4855,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2632,
+            "KNSB": "access403"
+        }
+    },
+    "public-vpn-194": {
+        "connect": 7921,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2289,
+            "KC": 1732,
+            "PJSK": 2569,
+            "KNSB": 2999
+        }
+    },
+    "vpn339974201": {
+        "connect": 5802,
+        "sites": {
+            "PCR": 3272,
+            "UMA": 5016,
+            "WF": 2706,
+            "KC": 1975,
+            "PJSK": "access403",
+            "KNSB": 3264
+        }
+    },
+    "public-vpn-205": {
+        "connect": 7939,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 2569,
+            "KC": 2141,
+            "PJSK": 2565,
+            "KNSB": 2854
+        }
+    },
+    "vpn511477967": {
+        "connect": 7086,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 3443,
+            "KNSB": "access403"
+        }
+    },
+    "vpn203886536": {
+        "connect": 5233,
+        "sites": {
+            "PCR": 3182,
+            "UMA": 4926,
+            "WF": 2755,
+            "KC": 1982,
+            "PJSK": 2749,
+            "KNSB": 3178
+        }
+    },
+    "vpn538211395": {
+        "connect": 5098,
+        "sites": {
+            "PCR": 2919,
+            "UMA": 3955,
+            "WF": 2499,
+            "KC": 1780,
+            "PJSK": 2498,
+            "KNSB": 2915
+        }
+    },
+    "vpn782349077": {
+        "connect": 5289,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": "access403",
+            "KNSB": "access403"
+        }
+    },
+    "vpn554965261": {
+        "connect": 4049,
+        "sites": {
+            "PCR": 2842,
+            "UMA": 4007,
+            "WF": 2531,
+            "KC": 2115,
+            "PJSK": 2531,
+            "KNSB": 3138
+        }
+    },
+    "vpn639089658": {
+        "connect": 3733,
+        "sites": {
+            "PCR": 2774,
+            "UMA": 5666,
+            "WF": 2478,
+            "KC": 2047,
+            "PJSK": "access403",
+            "KNSB": 2764
+        }
+    },
+    "vpn620717797": {
+        "connect": 5589,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": "access403",
+            "KNSB": "access403"
+        }
+    },
+    "vpn131846029": {
+        "connect": 5726,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 3633,
+            "KNSB": "access403"
+        }
+    },
+    "vpn663246886": {
+        "connect": 5728,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2994,
+            "KNSB": "access403"
+        }
+    },
+    "vpn886888693": {
+        "connect": 5720,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2759,
+            "KNSB": "access403"
+        }
+    },
+    "vpn451894126": {
+        "connect": 4778,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2580,
+            "KNSB": "access403"
+        }
+    },
+    "vpn807798587": {
+        "connect": 5372,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2592,
+            "KNSB": "access403"
+        }
+    },
+    "vpn895567801": {
+        "connect": 7238,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 4075,
+            "KNSB": "access403"
+        }
+    },
+    "vpn945287245": {
+        "connect": 5865,
+        "sites": {
+            "PCR": 3263,
+            "UMA": 4739,
+            "WF": 2504,
+            "KC": 2062,
+            "PJSK": "access403",
+            "KNSB": 2818
+        }
+    },
+    "vpn855169980": {
+        "connect": 4970,
+        "sites": {
+            "PCR": 3122,
+            "UMA": 4230,
+            "WF": 2715,
+            "KC": 1999,
+            "PJSK": 2714,
+            "KNSB": 3118
+        }
+    },
+    "vpn458231392": {
+        "connect": 4536,
+        "sites": {
+            "PCR": 3025,
+            "UMA": 4963,
+            "WF": 2427,
+            "KC": 1986,
+            "PJSK": 2734,
+            "KNSB": 3022
+        }
+    },
+    "vpn326916648": {
+        "connect": 6416,
+        "sites": {
+            "PCR": 2929,
+            "UMA": 5939,
+            "WF": 2926,
+            "KC": "access403",
+            "PJSK": 3370,
+            "KNSB": "access403"
+        }
+    },
+    "vpn469975848": {
+        "connect": 4846,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2955,
+            "KNSB": "access403"
+        }
+    },
+    "vpn839706565": {
+        "connect": 7059,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 4938,
+            "KNSB": "access403"
+        }
+    },
+    "vpn262555494": {
+        "connect": 5277,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 3034,
+            "KNSB": "access403"
+        }
+    },
+    "vpn188650100": {
+        "connect": 5341,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 4000,
+            "KNSB": "access403"
+        }
+    },
+    "vpn965122492": {
+        "connect": 4719,
+        "sites": {
+            "PCR": 3774,
+            "UMA": 6116,
+            "WF": 3772,
+            "KC": "access403",
+            "PJSK": 4065,
+            "KNSB": "timeout"
+        }
+    },
+    "vpn857552194": {
+        "connect": 5887,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": 6363,
+            "KC": 2136,
+            "PJSK": 3309,
+            "KNSB": 3600
+        }
+    },
+    "vpn411133453": {
+        "connect": 4518,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2733,
+            "KNSB": "access403"
+        }
+    },
+    "vpn467271945": {
+        "connect": 5961,
+        "sites": {
+            "PCR": 3322,
+            "UMA": 5090,
+            "WF": 2853,
+            "KC": 2062,
+            "PJSK": "access403",
+            "KNSB": 3318
+        }
+    },
+    "vpn164177268": {
+        "connect": 5561,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 3254,
+            "KNSB": "access403"
+        }
+    },
+    "vpn346642591": {
+        "connect": 4733,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2711,
+            "KNSB": "access403"
+        }
+    },
+    "vpn273105491": {
+        "connect": 5833,
+        "sites": {
+            "PCR": 3078,
+            "UMA": 4137,
+            "WF": 2647,
+            "KC": 1886,
+            "PJSK": 2645,
+            "KNSB": 3075
+        }
+    },
+    "vpn664747147": {
+        "connect": 5676,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 3265,
+            "KNSB": "access403"
+        }
+    },
+    "vpn436241647": {
+        "connect": 5581,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2885,
+            "KNSB": "access403"
+        }
+    },
+    "vpn330551090": {
+        "connect": 5490,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 2900,
+            "KNSB": "access403"
+        }
+    },
+    "vpn679090667": {
+        "connect": 6084,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": "access403",
+            "KNSB": "access403"
+        }
+    },
+    "vpn789088271": {
+        "connect": 5906,
+        "sites": {
+            "PCR": 3020,
+            "UMA": 8691,
+            "WF": "timeout",
+            "KC": 9134,
+            "PJSK": "access403",
+            "KNSB": "timeout"
+        }
+    },
+    "vpn794868705": {
+        "connect": 4097,
+        "sites": {
+            "PCR": 3230,
+            "UMA": 6267,
+            "WF": 2925,
+            "KC": "access403",
+            "PJSK": 3228,
+            "KNSB": "access403"
+        }
+    },
+    "vpn747952889": {
+        "connect": 7130,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 4522,
+            "KNSB": "access403"
+        }
+    },
+    "vpn229714373": {
+        "connect": 5362,
+        "sites": {
+            "PCR": 3523,
+            "UMA": 4612,
+            "WF": 3194,
+            "KC": 2408,
+            "PJSK": "access403",
+            "KNSB": 3518
+        }
+    },
+    "vpn929261162": {
+        "connect": 4355,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 5123,
+            "KNSB": "access403"
+        }
+    },
+    "vpn129143466": {
+        "connect": 5331,
+        "sites": {
+            "PCR": 3196,
+            "UMA": 6231,
+            "WF": 2755,
+            "KC": 2016,
+            "PJSK": "access403",
+            "KNSB": 3203
+        }
+    },
+    "vpn565314567": {
+        "connect": 6957,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 4293,
+            "KNSB": "access403"
+        }
+    },
+    "vpn262783424": {
+        "connect": 8230,
+        "sites": {
+            "PCR": "access403",
+            "UMA": "access403",
+            "WF": "access403",
+            "KC": "access403",
+            "PJSK": 4355,
+            "KNSB": "access403"
+        }
+    },
+    "vpn296765632": {
+        "connect": 5210,
+        "sites": {
+            "PCR": 3349,
+            "UMA": 5225,
+            "WF": 2941,
+            "KC": "access403",
+            "PJSK": 3644,
+            "KNSB": "access403"
+        }
+    },
+    "vpn607583619": {
+        "connect": 5297,
+        "sites": {
+            "PCR": 4259,
+            "UMA": 6884,
+            "WF": 3476,
+            "KC": 2740,
+            "PJSK": 5010,
+            "KNSB": 5009
+        }
+    },
+    "vpn114841248": {
+        "connect": 5570,
+        "sites": {
+            "PCR": "timeout",
+            "UMA": "timeout",
+            "WF": 5798,
+            "KC": "timeout",
+            "PJSK": "timeout",
+            "KNSB": "timeout"
+        }
+    },
+    "vpn667519682": {
+        "connect": 8212,
+        "sites": {
+            "PCR": 6741,
+            "UMA": 7778,
+            "WF": 4286,
+            "KC": "access403",
+            "PJSK": 4734,
+            "KNSB": "access403"
+        }
+    },
+    "vpn184799446": {
+        "connect": 6817,
+        "sites": {
+            "PCR": 4860,
+            "UMA": 5895,
+            "WF": 3637,
+            "KC": "access403",
+            "PJSK": 4409,
+            "KNSB": "access403"
+        }
+    }
+}

@@ -238,7 +238,7 @@ try {
 
 			const sendOptions = async (options: InteractionReplyOptions) => {
 				if (interaction.isMessageComponent()) {
-					await interaction.editReply(options);
+					interaction.replied || interaction.deferred ? await interaction.editReply(options) : await interaction.reply(options);
 					setRemoveDeleteButtonListener(options);
 				} else if (interaction.isCommand() || interaction.isContextMenu()) {
 					if (command.defer) {
